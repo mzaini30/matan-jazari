@@ -31,7 +31,7 @@
 	app/src/main/java/com/mzaini30/namaaplikasi/MainActivity.java
 	```
 	
-5. Versi (baru sampai sini)
+5. Versi
 
 	```
 	app/build.gradle

@@ -1,4 +1,4 @@
-package com.mzaini30.dzikirpagipetang;
+package com.mzaini30.matanjazari;
 
 import android.content.Intent;
 import android.net.Uri;

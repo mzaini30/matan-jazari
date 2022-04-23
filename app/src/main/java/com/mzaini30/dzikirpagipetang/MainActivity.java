@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        StartAppSDK.init(this, "203874132", false);
+        StartAppSDK.init(this, "203301530", false);
         StartAppAd.disableSplash();
 
         // AdMob banner ad test id: ca-app-pub-3940256099942544/6300978111
